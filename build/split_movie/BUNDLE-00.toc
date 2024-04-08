@@ -1,0 +1,3 @@
+([('split_movie',
+   '/Users/keigo/Cursor/Calculator/dist/split_movie',
+   'EXECUTABLE')],)
