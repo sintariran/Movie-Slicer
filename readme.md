@@ -42,6 +42,6 @@
 
 ## 連絡先
 
-- 開発者：Your Name
-- メール：your_email@example.com
-- Webサイト：https://your-website.com
+- 開発者：Keigo Sato
+- メール：k0127s@gmail.com
+- Webサイト：https://www.polyteq.jp/
